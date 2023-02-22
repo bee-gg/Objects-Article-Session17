@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(210, 232, 235);
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container{
+    width: 450px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(236, 243, 243);
+}
+.date{
+    font-size: 14px;
+}
+.title{
+    margin-bottom: 5px;
+}
+
+.author{
+    margin-top: 40px;
+    font-style:italic
+}
+b{
+    color: rgb(217, 84, 106);
+}
